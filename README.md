@@ -15,7 +15,7 @@ This project uses a relational database schema to analyze a music store's operat
 
 ## Project Files
 
-1. **`music_store_queries.sql`**: Contains all SQL queries to analyze the music store database.
+1. **`Music_Store_analysis.sql`**: Contains all SQL queries to analyze the music store database.
 2. **Schema Diagram**: A visual representation of the database structure (see below).
 
 ## Database Schema
